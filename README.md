@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://imgur.com/FIqpEzV.gif" width=250><br>
+<img src='https://github.com/rybortega/TFInstagram-Part1-01/blob/master/COMPLETE%20by%20Byrnorthil.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
